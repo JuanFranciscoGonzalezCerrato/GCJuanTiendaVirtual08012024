@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/GCJuanTiendaVirtual">
+    <Resource 
+        auth="Container" 
+        driverClassName="com.mysql.jdbc.Driver" 
+        maxActive="300" 
+        maxIdle="300" 
+        maxWait="10000" 
+        name="jdbc/APool" 
+        password="Java*2024" 
+        type="javax.sql.DataSource" 
+        url="jdbc:mysql://localhost:3307/gcjuantiendavirtual" 
+        username="java2024"/>
+</Context>
